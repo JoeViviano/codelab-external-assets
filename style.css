@@ -1,0 +1,39 @@
+<style>
+  h1 {
+    line-height: 300px;
+    vertical-align: top;
+    margin: auto;
+    color: darkblue;
+    font-weight: bolder;
+    font-size: 160px;
+    display: inline-block;
+  }
+  h2 {
+    background-color: rgb(200, 200, 218);
+    color: darkblue;
+    font-weight: bolder;
+    font-size: 36px;
+    margin-bottom: 24px;
+    display: block;
+  }
+  body {
+    font-size: 24px;
+    line-height: 38px;
+  }
+  div.heading {
+    display: block;
+    padding-bottom: 12px;
+  }
+  div.block {
+    padding: 10px;
+    border-width: 3px;
+    border-style: dotted;
+    border-color: blue;
+    min-height: 200px;
+    vertical-align: top;
+    display: inline-block;
+  }
+  div.line {
+    display: block;
+  }
+  </style>
